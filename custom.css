@@ -1,0 +1,58 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+body {
+    background-color: #F4FAFF;
+}
+
+.navbar-brand {
+    font-family: "Cormorant", serif;
+}
+
+.bg-primary {
+    
+    background-color: #9AD3FE !important;
+}
+
+iframe {
+    aspect-ratio: 16/9;
+    width: 100%;
+    height: auto;
+}
+
+.carousel-caption {
+    background-color: rgba(128, 128, 128, 0.4);
+
+}
+
+.card {
+    background-color: #9AD3FE;
+}
+
+.card-body {
+    background-color: #d7edff;
+}
+
+.btn {
+    color: #000000;
+    text-decoration: none;
+}
+
+.facts {
+    text-decoration: underline;
+}
+
+h1, h2, h5, h6, .btn {
+    font-family: "Cormorant", serif;
+}
+
+h2, h5, h6 {
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 40px
+}
+
+p, li {
+    font-family: "Quattrocento Sans", sans-serif;
+    font-size: 18px
+}
